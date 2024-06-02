@@ -3,4 +3,4 @@ A basic calculator web application created using PHP. This application allows us
 
 ## Screenshots
 
-<img src=>
+<img src="calculator.png">
